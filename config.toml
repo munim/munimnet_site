@@ -1,0 +1,22 @@
+baseURL = "http://munim.net/"
+languageCode = "en-gb"
+title = "Abdul Munim"
+theme = "hugo-theme-nix"
+
+[params]
+  GithubID = "munim"
+  TwitterID = "munim"
+  LinkedInID = "amunim"
+  FacebookID = "munim"
+  Name = "Abdul Munim"
+  HeaderUsername = "munim"
+  HeaderHostname = "website"
+  Email = "me@munim.net"
+  About = "A software craftman, father of 3 children and a golfer by heart. More than 10 years of professional software development experience in multiple platforms. Currently cons  idering myself as an AEM developer and loving it. I also have intense interest on Python, Ruby on Rails and Golang, and a sole preacher of Linux."
+  ProfilePicture = "abdul_munim_512x512.jpg"
+  GoogleAnalytics = "your_google_analytics_id"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    url = "http://abdulmunim.com"
